@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.4](https://github.com/ublue-os/kernel-signer/compare/v0.2.3...v0.2.4) (2024-07-11)
+
+
+### Miscellaneous Chores
+
+* release v0.2.4 ([664b6e5](https://github.com/ublue-os/kernel-signer/commit/664b6e52d75ad86dac8a2aa5d229f4dc2f24980b))
+
 ## [0.2.1](https://github.com/EyeCantCU/kernel-signer/compare/v0.2.0...v0.2.1) (2024-05-18)
 
 
